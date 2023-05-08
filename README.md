@@ -16,13 +16,15 @@ To run this project You will need the following things installed on your machine
 ### Run 
 
 client: 
+
     1. go inside client folder
     2. right click on index.html file
     3. open with live server
 
-    it will run the frontend part in 5650 port
+it will run the frontend part in 5650 port
 
 server:
+
     1. go to server folder
     2. run the command: npm install
     3. get your stripe private key from your stripe account
@@ -31,6 +33,7 @@ server:
     6. run the command: npm run start
 
 backend will run on port 3000
+
 thats it!
 
 
